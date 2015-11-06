@@ -1,0 +1,17 @@
+{
+  "name": "language-sourcekit",
+  "description": "Language Grammar using Apple's SourceKit for Highlighting.",
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kepler0/atom-language-sourcekit"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^1.8.0"
+  }
+}
